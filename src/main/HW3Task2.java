@@ -3,7 +3,7 @@
 
 package main;
 
-public class HW2Task2 {
+public class HW3Task2 {
 
     public boolean numberInInterval(int n) {
         if (n >= 25 && n <= 100) {

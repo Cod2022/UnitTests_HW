@@ -3,7 +3,7 @@
 //
 package main;
 
-public class HW2Task1 {
+public class HW3Task1 {
 
 
     public boolean evenOddNumber(int n) {
